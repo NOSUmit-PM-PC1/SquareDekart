@@ -1,0 +1,5 @@
+D:\ПМ 2020\Makarenko\squareDekart\squareDekart\bin\Debug\squareDekart.exe.config
+D:\ПМ 2020\Makarenko\squareDekart\squareDekart\bin\Debug\squareDekart.exe
+D:\ПМ 2020\Makarenko\squareDekart\squareDekart\bin\Debug\squareDekart.pdb
+D:\ПМ 2020\Makarenko\squareDekart\squareDekart\obj\Debug\squareDekart.exe
+D:\ПМ 2020\Makarenko\squareDekart\squareDekart\obj\Debug\squareDekart.pdb
